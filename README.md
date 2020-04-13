@@ -7,6 +7,9 @@ Uses the visiblevc/wordpress-starter image.
 
 ## Initialization
 
+## Docker win10 
+`https://hub.docker.com/editions/community/docker-ce-desktop-windows/`
+
 ### Prerequisites
 
 * You'll need docker installed... google is your friend. Don't worry too much about learning docker at this point.
